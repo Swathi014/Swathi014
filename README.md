@@ -31,14 +31,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swathi014&show_icons=true&theme=radical&hide_border=true" alt="Swathi's GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=swathi014&theme=radical&hide_border=true" alt="Swathi's GitHub Streak" />
-</div>
 
 ---
 
